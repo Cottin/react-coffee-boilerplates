@@ -1,18 +1,18 @@
 # A collection of React Boilerplates using the worlds best language... CoffeeScript !!!
 
 # "Raw"
-Contains: transform
-This is a simple modification of https://github.com/gaearon/react-transform-boilerplate made to support coffee-script.
+ - transform
+ - This is a simple modification of https://github.com/gaearon/react-transform-boilerplate made to support coffee-script.
 
 # "Redux"
-Contains: transform - redux - reselect - radium
-...also: ramda - ramda-extras
-...server: express - server and router helpers
+ - transform - redux - reselect - radium
+ - ...also: ramda - ramda-extras
+ - ...server: express - server and router helpers
 
 # "Super-glue"
-Contains: transform - super-glue - radium
-...also: ramda - ramda-extras - yun
-...server: express - server and router helpers
+ - transform - super-glue - radium
+ - ...also: ramda - ramda-extras - yun
+ - ...server: express - server and router helpers
 
 
 # How to use?
